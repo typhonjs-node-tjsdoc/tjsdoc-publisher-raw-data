@@ -1,0 +1,6 @@
+/* Load local development modules directly. */
+{
+  "extends": ".tjsdocrc",
+  "publisher": "../tjsdoc-publisher-static-html/src/Publisher.js",
+  "runtime": "../tjsdoc-babylon/src/TJSDocBabylon.js"
+}
